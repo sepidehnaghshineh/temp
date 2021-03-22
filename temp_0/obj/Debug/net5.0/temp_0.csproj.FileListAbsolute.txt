@@ -1,0 +1,16 @@
+C:\Users\Sepideh\RiderProjects\temp\temp_0\bin\Debug\net5.0\temp_0.exe
+C:\Users\Sepideh\RiderProjects\temp\temp_0\bin\Debug\net5.0\temp_0.deps.json
+C:\Users\Sepideh\RiderProjects\temp\temp_0\bin\Debug\net5.0\temp_0.runtimeconfig.json
+C:\Users\Sepideh\RiderProjects\temp\temp_0\bin\Debug\net5.0\temp_0.runtimeconfig.dev.json
+C:\Users\Sepideh\RiderProjects\temp\temp_0\bin\Debug\net5.0\temp_0.dll
+C:\Users\Sepideh\RiderProjects\temp\temp_0\bin\Debug\net5.0\ref\temp_0.dll
+C:\Users\Sepideh\RiderProjects\temp\temp_0\bin\Debug\net5.0\temp_0.pdb
+C:\Users\Sepideh\RiderProjects\temp\temp_0\obj\Debug\net5.0\temp_0.csprojAssemblyReference.cache
+C:\Users\Sepideh\RiderProjects\temp\temp_0\obj\Debug\net5.0\temp_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sepideh\RiderProjects\temp\temp_0\obj\Debug\net5.0\temp_0.AssemblyInfoInputs.cache
+C:\Users\Sepideh\RiderProjects\temp\temp_0\obj\Debug\net5.0\temp_0.AssemblyInfo.cs
+C:\Users\Sepideh\RiderProjects\temp\temp_0\obj\Debug\net5.0\temp_0.csproj.CoreCompileInputs.cache
+C:\Users\Sepideh\RiderProjects\temp\temp_0\obj\Debug\net5.0\temp_0.dll
+C:\Users\Sepideh\RiderProjects\temp\temp_0\obj\Debug\net5.0\ref\temp_0.dll
+C:\Users\Sepideh\RiderProjects\temp\temp_0\obj\Debug\net5.0\temp_0.pdb
+C:\Users\Sepideh\RiderProjects\temp\temp_0\obj\Debug\net5.0\temp_0.genruntimeconfig.cache
